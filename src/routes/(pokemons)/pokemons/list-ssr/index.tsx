@@ -1,4 +1,4 @@
-import { Slot, $, component$, useComputed$, useSignal, useStore } from '@builder.io/qwik';
+import { $, component$, useComputed$, useSignal, useStore } from '@builder.io/qwik';
 import { type DocumentHead, Link, routeLoader$, useLocation } from '@builder.io/qwik-city';
 import { Modal } from '~/components/shared';
 import { getSmallPokemons } from '~/helpers/get-small-pokemons';

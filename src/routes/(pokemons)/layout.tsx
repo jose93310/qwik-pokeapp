@@ -1,4 +1,4 @@
-import { component$, Slot, _jsxQ } from '@builder.io/qwik';
+import { component$, Slot } from '@builder.io/qwik';
 import Navbar from '~/components/shared/navbar/navbar';
 import { PokemonProvider } from '~/context';
 
